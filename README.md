@@ -39,8 +39,8 @@ To clean, analyze, and visualize youth unemployment in South Africa — and unde
 ## Power BI Visuals
 
 - **Line Chart**: Gender-based trends from 2000–2024
-- **Heatmap**: Correlation matrix between year, gender, and unemployment rate
-- **Slicer**: Filter by gender or year
+- **Card**: To depict the unemployment rate average
+- **Decomposition Tre**: To breakdown, and get a detailed insights on the factors that influence unemployment, by year and gender
 - **Tooltips**: Custom insights when hovering on visuals
 
 ---
